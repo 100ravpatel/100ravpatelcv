@@ -1,0 +1,65 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: white;
+}
+.maincontainer{
+    height:1100px;
+    width: 750px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 5% auto;
+}
+.maincontainer h1{
+    text-align: center;
+    font-size:40px;
+    margin-top: 30px;
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif;
+}
+.info,
+.address,
+.objective,
+.education,
+.skill,
+.pdetail,
+.declaration,
+.end{
+    padding: 0 8% 0 8%;
+}
+.address p b,
+.objective p b,
+.education p b{
+    font-size: 22px;
+}
+.info p b{
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.info p{
+    margin-top: 2px;
+    font-size: 17px;
+    margin-left:1px;
+}
+
+.education table,th,td{
+    border: 1px solid #003300;
+    border-collapse: collapse;
+    background-color:#33FF00;
+}
+table td{
+    text-align: center;
+}
+.skill p b,
+.pdetail p b,
+.declaration p b,
+.end p b{
+    font-size:20px ;
+}
+.declaration p{
+    margin-top: 5px;
+}
+.end{
+    text-align: right;
+}
