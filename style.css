@@ -2,14 +2,15 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 body{
-    background-color: white;
+    background-color: rgb(95, 236, 189);
 }
 .maincontainer{
     height:1100px;
     width: 750px;
-    border-radius: 10px;
-    border: 2px solid black;
+    border-radius: 7px;
+    border: 1px solid black;
     margin: 5% auto;
+    background-color: white;
 }
 .maincontainer h1{
     text-align: center;
@@ -46,7 +47,6 @@ body{
 .education table,th,td{
     border: 1px solid #003300;
     border-collapse: collapse;
-    background-color:#33FF00;
 }
 table td{
     text-align: center;
@@ -62,4 +62,4 @@ table td{
 }
 .end{
     text-align: right;
-} 
+}
