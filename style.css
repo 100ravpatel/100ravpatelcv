@@ -25,13 +25,15 @@ body{
 .education,
 .skill,
 .pdetail,
+.certificate,
 .declaration,
 .end{
     padding: 0 8% 0 8%;
 }
 .address p b,
 .objective p b,
-.education p b{
+.education p b,
+.certificate p b{
     font-size: 22px;
 }
 .info p b{
